@@ -50,7 +50,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ---
 
-## 📜 References
+## References
 - Yeast Dataset: [UCI Repository](https://archive.ics.uci.edu/ml/datasets/yeast)
 
 ---
